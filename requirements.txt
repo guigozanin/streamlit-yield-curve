@@ -1,6 +1,6 @@
 # requirements.txt
 
 streamlit
-pandas
 plotly
-pandas_datareader
+pandas_datareader==0.10.0
+pandas
