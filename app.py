@@ -35,7 +35,7 @@ def plot_yield_curve_surface(df, source_text):
     return fig
 
 # Interface do Streamlit
-st.title("📈 Superfície da Curva de Juros dos EUA")
+st.title("📈 Superfície da Curva de Juros dos EUA - 2")
 st.write("Este app exibe a evolução da curva de juros americana ao longo do tempo.")
 
 # Carregar os dados
